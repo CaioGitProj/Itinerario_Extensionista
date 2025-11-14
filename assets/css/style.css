@@ -192,6 +192,20 @@ body.loaded .page-footer {
   animation-duration: 25s;
   animation-delay: 0s;
 }
+.icon-set__icon:nth-child(4) {
+  width: 60px;
+  top: 40%;
+  left: 65%;
+  animation-duration: 25s;
+  animation-delay: 0s;
+}
+.icon-set__icon:nth-child(5) {
+  width: 70px;
+  top: 25%;
+  left: 25%;
+  animation-duration: 25s;
+  animation-delay: 0s;
+}
 
 .page-footer {
   background: rgba(255, 255, 255, 0.1);
